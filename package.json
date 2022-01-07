@@ -8,7 +8,7 @@
     "email": "gabe@redxtech.ca",
     "url": "https://gabedunn.dev"
   },
-  "repository": "github:redxtech/vue-plyr",
+  "repository": "github:nichlasbresch/vue-plyr",
   "scripts": {
     "prebuild": "rm -rf dist/",
     "build": "NODE_ENV=production rollup --c rollup.config.js",
